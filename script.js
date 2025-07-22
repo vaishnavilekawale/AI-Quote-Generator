@@ -66,3 +66,6 @@ function generateQuote() {
   document.getElementById("quoteText").innerText = `"${quote.text}"`;
   document.getElementById("authorText").innerText = `- ${quote.author}`;
 }
+
+
+
